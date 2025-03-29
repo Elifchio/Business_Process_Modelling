@@ -5,4 +5,5 @@ This project consists of
 - a BPMN diagram in .png and .bpmn formats (folder BPMN)
 - workflow net translations of the given diagram, first as indivudual collabrators (modules folder) and as a merged final version (final_system.pnml) All files are in
   pnml format and can be opened using Woped (https://woped.dhbw-karlsruhe.de).
+- Reachability graph of the final Workflow net (Reachability Graph.png)
 - A report briefly explaining the process (Report.pdf)
