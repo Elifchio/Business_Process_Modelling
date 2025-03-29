@@ -1,5 +1,7 @@
 Business Process Modelling, BPMN diagram, Workflow Net and Analysis
+
 Aim: Displaying the correct workflow between two participants. Verifying the correctness of the initial BPMN diagram through testing the workflow net. 
+
 
 This project consists of 
 - a BPMN diagram in .png and .bpmn formats (folder BPMN)
